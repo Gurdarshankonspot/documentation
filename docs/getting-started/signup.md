@@ -22,3 +22,5 @@ sidebar_position: 2
 	  ![Create New Project](/img/tutorial/styles.png)
 	- No Code(Scripts) 
 	  ![Create New Project](/img/tutorial/launch.png)
+
+	  
